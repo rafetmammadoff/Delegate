@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\profe\Desktop\Delegate\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
